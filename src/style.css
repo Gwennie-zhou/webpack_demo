@@ -1,3 +1,12 @@
 .hello {
     color: aquamarine;
+    width: 200px;
+    height: 200px;
+    background-image: url("./bg.jpg");
+}
+
+.bg {
+    width: 100px;
+    height: 100px;
+    border: 10px solid black;
 }
